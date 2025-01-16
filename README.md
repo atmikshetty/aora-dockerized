@@ -1,4 +1,5 @@
 # Aora 
+Built using React Native and Expo.
 
 ## Docker Setup
 
